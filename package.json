@@ -1,0 +1,10 @@
+{
+  "name": "kardov-tv-module",
+  "version": "1.0.0",
+  "description": "Ouvre Kardov en plein ecran avec navigation aux fleches de la telecommande, via TizenBrew",
+  "packageType": "mods",
+  "appName": "Kardov",
+  "websiteURL": "https://kardov.com",
+  "main": "userScript.js",
+  "keys": ["MediaPlayPause", "MediaPlay", "MediaPause", "MediaStop", "MediaFastForward", "MediaRewind"]
+}
